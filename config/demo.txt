@@ -89,7 +89,7 @@ Bloomberg TV,
 東森新聞,
 TVBS新聞,
 香港頻道,#genre#
-翡翠台,
+翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8#http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv#http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv#https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8#http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 無綫新聞台,
 明珠台,
 ViuTV,
