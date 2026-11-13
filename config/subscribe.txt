@@ -33,6 +33,10 @@ http://122.117.71.103:8660/http/61.67.128.137:8081/hls/63/805/ch010.m3u8
 http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 https://iptv.852851.xyz/ch/34dfa3110b23be3964e6630ef747a71b/master.m3u8
 
+https://iptv-org.github.io/iptv/countries/us.m3u
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+https://epg.pw/test_channels_united_states.m3u
+
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
