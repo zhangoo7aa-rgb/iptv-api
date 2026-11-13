@@ -77,3 +77,14 @@ CETV-4
 汕头文旅
 茂名综合
 茂名公共
+
+海外新聞,#genre#
+CNN,
+BBC World News,
+NHK World Japan,
+Bloomberg TV,
+港澳台頻道,#genre#
+翡翠台,
+無綫新聞台,
+東森新聞,
+TVBS新聞,
