@@ -26,7 +26,12 @@ https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://tv.iill.top/m3u/Gather
 http://aktv.top/live.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+https://cdn.19891230.eu.org/4gtv/4gtv-4gtv152/index.m3u8
+http://8.iptv543.com:50009/li-4gtv-4gtv152/index.m3u8?proxy=true
+http://122.117.71.103:8660/http/61.67.128.137:8081/hls/63/805/ch010.m3u8
+http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
+https://iptv.852851.xyz/ch/34dfa3110b23be3964e6630ef747a71b/master.m3u8
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
