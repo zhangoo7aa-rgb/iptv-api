@@ -15,6 +15,18 @@ http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
 http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+https://7612-5516-affc-d88b.kylintv.tv/live/pxhkus_iphone.m3u8
+http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
+https://iptv.852851.xyz/ch/1183bed3a5b7e98e94e1ca51f890a1bb/master.m3u8
+https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
+https://pull-f5-spe.ixigua.com/yeslivetv.com/446133069-816601364/index.m3u8
+http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
+https://epg.pw/test_channels_taiwan.m3u
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://tv.iill.top/m3u/Gather
+http://aktv.top/live.m3u
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
